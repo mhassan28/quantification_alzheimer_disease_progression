@@ -1,0 +1,12 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": [],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportUnusedImport": "none"
+  },
+  "python.analysis.extraPaths": [
+    "c:/users/zee-tech/appdata/roaming/python/python310/site-packages"
+  ],
+  "python.analysis.useLibraryCodeForTypes": true
+}
